@@ -1,0 +1,8 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles: {}
+last_built: 2025-04-24T18:15Z
+urls:
+  reference: https://maxineparedes.github.io/ia5/reference
+  article: https://maxineparedes.github.io/ia5/articles
